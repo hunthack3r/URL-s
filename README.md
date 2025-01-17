@@ -1,1 +1,1 @@
-URL-s: Update 2 - A comprehensive list of domains for bug bounty hunters.
+URL-s: Update 3 - Detailed domain information from VDP programs.
